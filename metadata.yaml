@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '36944'
     url: http://www.gutenberg.org/2009/agents/36944
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34299#Homo-cultureor-The-improvement-of-offspring-through-wiser-generation
 gutenberg_bookshelf: Sociology
 gutenberg_issued: '2010-11-12'
 gutenberg_type: Text
